@@ -10,27 +10,27 @@
 
 **学二进制如果没有拿的出的一手敲代码的能力怎么行？**
 
-《window核心编程》
+- [ ] 《window核心编程》
 
-《C Primer Plus（第6版）中文版》
+- [x] 《C Primer Plus（第6版）中文版》
 
-《C++ Primer Plus (第6版） 中文版》
+- [x] 《C++ Primer Plus (第6版） 中文版》
 
-《Python核心编程》
+- [x] 《Python核心编程》
 
- 《Python灰帽子-黑客与逆向工程的python编程之道》
+- [x] 《Python灰帽子-黑客与逆向工程的python编程之道》
 
-《Python自动化运维：技术与最佳实践》
+- [x] 《Python自动化运维：技术与最佳实践》
 
-《精通黑客脚本》
+- [x] 《精通黑客脚本》
 
 **学二进制没有一点系统知识真的好嘛?**
 
-《深入理解Linux内核》
+- [x] 《深入理解Linux内核》
 
-《Linux内核源代码情景分析》
+- [x] 《Linux内核源代码情景分析》
 
-《Linux内核设计与实现》
+- [x] 《Linux内核设计与实现》
 
 《寒江独钓:windows内核安全编程》
 
